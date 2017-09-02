@@ -1,0 +1,9 @@
+登录
+systemctl (status/start/restart/stop) mongod.service
+
+开启mongodb
+登录mongo
+use admin
+show dbs
+db.t_app.find();
+db.t_app.count();
