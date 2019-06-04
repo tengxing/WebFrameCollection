@@ -11,10 +11,10 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
  */
 @EnableTransactionManagement
 @SpringBootApplication
-public class ThinkKafkaApplication {
+public class SbApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ThinkKafkaApplication.class, args);
+        SpringApplication.run(SbApplication.class, args);
     }
 
 }

@@ -24,7 +24,7 @@ public class Book implements java.io.Serializable{
     @Column(name = "publish")
     private String publish;
     @Column(name = "price")
-    private double price;
+    private Double price;
     @Column(name = "time")
     private String time;
 }
