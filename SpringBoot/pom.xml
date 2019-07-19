@@ -11,7 +11,7 @@
     <groupId>cn.littleterry.sb</groupId>
     <artifactId>sb</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>SpringBoot-Jpa</name>
+    <name>SpringBoot</name>
     <description>SpringBoot project for Spring Boot</description>
     <developers>
         <developer>
