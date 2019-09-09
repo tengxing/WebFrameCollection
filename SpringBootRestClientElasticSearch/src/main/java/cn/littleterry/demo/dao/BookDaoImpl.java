@@ -1,22 +1,11 @@
-package cn.yjxxclub.demo.dao;
+package cn.littleterry.demo.dao;
 
-import cn.yjxxclub.demo.model.Book;
-import com.alibaba.fastjson.JSON;
-import org.apache.http.HttpHost;
-import org.elasticsearch.action.index.IndexRequest;
-import org.elasticsearch.client.RequestOptions;
-import org.elasticsearch.client.RestClient;
-import org.elasticsearch.client.RestHighLevelClient;
+import cn.littleterry.demo.model.Book;
 import org.elasticsearch.common.UUIDs;
-import org.elasticsearch.common.xcontent.XContentType;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.util.StringUtils;
 
-import java.io.IOException;
-import java.util.Date;
 import java.util.List;
-import java.util.Optional;
 
 /**
  * @author terry

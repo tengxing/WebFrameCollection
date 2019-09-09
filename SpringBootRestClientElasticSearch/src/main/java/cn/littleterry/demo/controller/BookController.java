@@ -1,8 +1,8 @@
-package cn.yjxxclub.demo.controller;
+package cn.littleterry.demo.controller;
 
-import cn.yjxxclub.demo.model.Book;
-import cn.yjxxclub.demo.service.BookService;
-import cn.yjxxclub.demo.util.ResponseUtil;
+import cn.littleterry.demo.model.Book;
+import cn.littleterry.demo.service.BookService;
+import cn.littleterry.demo.util.ResponseUtil;
 import com.alibaba.fastjson.JSONObject;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

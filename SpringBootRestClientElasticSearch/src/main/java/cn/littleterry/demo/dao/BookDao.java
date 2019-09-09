@@ -1,10 +1,9 @@
-package cn.yjxxclub.demo.dao;
+package cn.littleterry.demo.dao;
 
 
-import cn.yjxxclub.demo.model.Book;
+import cn.littleterry.demo.model.Book;
 
 import java.util.List;
-import java.util.Optional;
 
 /**
  * Author: Starry.Teng

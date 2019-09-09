@@ -1,4 +1,4 @@
-package cn.yjxxclub.demo.config;
+package cn.littleterry.demo.config;
 
 import javax.servlet.*;
 import javax.servlet.http.HttpServletResponse;

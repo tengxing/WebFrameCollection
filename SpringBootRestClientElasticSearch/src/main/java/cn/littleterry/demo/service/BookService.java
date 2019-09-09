@@ -1,6 +1,6 @@
-package cn.yjxxclub.demo.service;
+package cn.littleterry.demo.service;
 
-import cn.yjxxclub.demo.model.Book;
+import cn.littleterry.demo.model.Book;
 
 import java.util.List;
 

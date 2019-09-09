@@ -1,4 +1,4 @@
-package cn.yjxxclub.demo.model;
+package cn.littleterry.demo.model;
 
 import lombok.Data;
 

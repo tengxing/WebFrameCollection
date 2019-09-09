@@ -1,4 +1,4 @@
-package cn.yjxxclub.demo.controller;
+package cn.littleterry.demo.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
