@@ -7,11 +7,9 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * Author: Starry.Teng
- * Email: tengxing7452@163.com
- * Date: 17-5-11
- * Time: 下午8:10
- * Describe: index
+ * IndexController
+ * @author terry
+ * @since 06/09/2019
  */
 @Controller
 @RequestMapping("/books")
