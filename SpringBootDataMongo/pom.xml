@@ -23,7 +23,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <druid.version>1.0.26</druid.version>
         <mysql.connector.version>5.1.38</mysql.connector.version>
-        <fastjson.version>1.2.6</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
     </properties>
 
     <dependencies>
